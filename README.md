@@ -27,13 +27,10 @@
 ### Sobre Mi :
 
 - Soy estudiante de CoderHouse.
-
 - Carrera fullstack.
-
 - Actualmente estoy aprendiendo : HTML, JavaScrit & Python.
-
 - WebSite del Proyecto Actual : [Guapas-Wilde](https://estetica-guapaswilde.netlify.app)
-
+- Codigo del Proyecto Actual : [Curso-Coder](https://github.com/DanielMarcosGarcia/Guapas-Wilde)
 - Contacme por **danielgarciamarco17@gmail.com**
 
 ### Lenguajes & Herramientas :
