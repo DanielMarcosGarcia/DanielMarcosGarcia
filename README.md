@@ -31,7 +31,7 @@
 - Actualmente estoy aprendiendo : HTML, JavaScrit & Python.
 - WebSite del Proyecto Actual : [Guapas-Wilde](https://estetica-guapaswilde.netlify.app)
 - Codigo del Proyecto Actual : [Curso-Coder](https://github.com/DanielMarcosGarcia/Guapas-Wilde)
-- Contacme por **danielgarciamarco17@gmail.com**
+- Contactame por **danielgarciamarco17@gmail.com**
 
 ### Lenguajes & Herramientas :
 
