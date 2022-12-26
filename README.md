@@ -22,10 +22,21 @@
 
 ###
 
-<p align="left">---<br><br>
-### Sobre Mi :<br><br>- Soy estudiante de CoderHouse.<br><br>- Carrera fullstack.<br><br>- Actualmente estoy aprendiendo : HTML, JavaScrit & Python.<br><br>- WebSite del Proyecto Actual : [Guapas-Wilde](https://estetica-guapaswilde.netlify.app)<br><br>- Contacme por **danielgarciamarco17@gmail.com**</p>
+---
 
-###
+### Sobre Mi :
+
+- Soy estudiante de CoderHouse.
+
+- Carrera fullstack.
+
+- Actualmente estoy aprendiendo : HTML, JavaScrit & Python.
+
+- WebSite del Proyecto Actual : [Guapas-Wilde](https://estetica-guapaswilde.netlify.app)
+
+- Contacme por **danielgarciamarco17@gmail.com**
+
+### Lenguajes & Herramientas :
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
@@ -40,6 +51,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" width="42" alt="canva logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
 </div>
+
+---
 
 ###
 
