@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Hola 👋! Mi nombre es Daniel Marcos Garcia. Futuro Programador.</h2>
+<h2 align="center">Hola 👋! Soy Daniel Marcos Garcia. Futuro Programador.</h2>
 
 ###
 
