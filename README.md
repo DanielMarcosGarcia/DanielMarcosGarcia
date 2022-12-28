@@ -35,7 +35,7 @@
 <br>
 👨🏼‍💻 I want to be a backend developer .
 <br>
-👨🏼‍⚖️ I am currently learning : HTML, JavaScrit, React js & Python .
+🧠 I am currently learning : HTML, JavaScrit, React js & Python .
 <br>
 📃 Current Project WebSite : [Guapas-Wilde](https://estetica-guapaswilde.netlify.app)
 <br>
