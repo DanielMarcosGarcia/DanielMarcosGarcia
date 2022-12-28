@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Hola! 👋 Soy Daniel Marcos Garcia. Futuro Programador.</h2>
+<h2 align="center">Hi! 👋 I am Daniel Marcos Garcia. Future Developer.</h2>
 
 ###
 
@@ -24,16 +24,23 @@
 
 ---
 
-### Sobre Mi :
+### About me 📝 :
 
-- Soy estudiante de CoderHouse.
-- Carrera fullstack.
-- Actualmente estoy aprendiendo : HTML, JavaScrit & Python.
-- WebSite del Proyecto Actual : [Guapas-Wilde](https://estetica-guapaswilde.netlify.app)
-- Codigo del Proyecto Actual : [Curso-Coder](https://github.com/DanielMarcosGarcia/Guapas-Wilde)
-- Contactame por **danielgarciamarco17@gmail.com**
+👨🏼‍🎓 I am a student at CoderHouse .
+<br>
+💻 Fullstack career .
+<br>
+👨🏼‍💻 I want to be a backend developer .
+<br>
+👨🏼‍⚖️ I am currently learning : HTML, JavaScrit, React js & Python .
+<br>
+📃 Current Project WebSite : [Guapas-Wilde](https://estetica-guapaswilde.netlify.app)
+<br>
+📑 Current Project Code : [Curso-Coder](https://github.com/DanielMarcosGarcia/Guapas-Wilde)
+<br>
+📧 Contact me at **danielgarciamarco17@gmail.com**
 
-### Lenguajes & Herramientas :
+### Languages & Tools :
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
